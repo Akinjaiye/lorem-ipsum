@@ -13,12 +13,13 @@
 }
 .input-wrapper{
     font-size:19.2 px;
-    width:200px;
+    width:260px;
     position:relative;
     margin:auto;
     display:flex;
     justify-content:space-between;
     margin-bottom:32px;
+    margin-top:16px;
 }
 .input-wrapper input{
     font-size:16px;
@@ -26,4 +27,11 @@
     padding:12.8px;
     border-radius:8px;
     border:2px solid #202020;
+}
+.input-wrapper button{
+    font-size:16px;
+    padding: 12.8px 16px;
+    outline:none;
+    border:none;
+    background-color:#ff3693;
 }
