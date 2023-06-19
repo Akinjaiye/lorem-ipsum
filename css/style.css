@@ -9,4 +9,12 @@
     text-transform: uppercase;
     background-color: #ff3693;
     padding: 32px 0px;
+    color:#ffffff;
+}
+.input-wrapper{
+    font-size:19.2 px;
+    width:200px;
+    position:relative;
+    margin:auto;
+    display:flex;
 }
